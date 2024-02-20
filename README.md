@@ -12,7 +12,7 @@ Built With:
 
 
 WEBSITE:
-https://jeevanthapa1987.github.io/javascript-password-generator/
+https://github.com/jeevanthapa1987/javascript-password-generator
 
 
 
