@@ -1,4 +1,4 @@
-<title> Password Generator </title>
+<h1> Password Generator </h1>
 
 
 Purpose:
